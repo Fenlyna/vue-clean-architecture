@@ -56,7 +56,7 @@ Each feature is represented by its own module, therefore for the Todo Feature, a
 
 The inner layer containing all services to handle business logic, and business rules.
 
-The layer in itself is seperated into **model**, **ports** and **usecases**.
+1. The layer in itself is seperated into **model**, **ports** and **usecases**.
 
 ### Model
 
